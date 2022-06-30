@@ -1,6 +1,6 @@
 - 👋 Hi, I am Amrita and I work at Red Hat as a User Documentation Developer. I have worked on software defined storage product Ceph and am currently working on OpenShift. 
 - 👀 I’m currently learning OpenShift.
-- I am an avid learner and also learning Python. 
+- I am an avid learner and currently learning Python. 
 - 📫 Contact me at asakthiv@redhat.com
 
 <!---
